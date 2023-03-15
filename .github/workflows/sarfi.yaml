@@ -25,4 +25,4 @@ jobs:
           sarif_file: results2.sarif
           # Optional category for the results
           # Used to differentiate multiple results for one commit
-          category: my-analysis-tool2
+          category: my-analysis-tool3
