@@ -11,11 +11,11 @@
             {
               "id": "no-unused-vars",
               "shortDescription": {
-                "text": "disallow unused variables"
+                "text": "second text"
               },
               "helpUri": "https://eslint.org/docs/rules/no-unused-vars",
               "properties": {
-                "category": "Variables"
+                "category": "Variables2"
               }
             }
           ]
