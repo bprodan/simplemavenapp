@@ -50,7 +50,7 @@
           ],
           "ruleId": "no-unused-vars",
           "ruleIndex": 0
-        }
+        },
 		 {
           "level": "error",
           "message": {
