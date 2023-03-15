@@ -12,6 +12,13 @@
           "version": "1.0"
         }
       },
+	  "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/dev/sarif/sarif-tutorials/samples/Introduction/simple-example.js"
+          }
+        }
+      ],
       "results": [
         {
           "ruleId": "TUT1001",
