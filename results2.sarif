@@ -9,13 +9,13 @@
           "informationUri": "https://eslint.org",
           "rules": [
             {
-              "id": "no-unused-vars",
+              "id": "no-unused-vars3",
               "shortDescription": {
-                "text": "second text"
+                "text": "3rd text"
               },
               "helpUri": "https://eslint.org/docs/rules/no-unused-vars",
               "properties": {
-                "category": "Variables2"
+                "category": "Variables3"
               }
             }
           ]
