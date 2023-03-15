@@ -51,6 +51,28 @@
           "ruleId": "no-unused-vars",
           "ruleIndex": 0
         }
+		 {
+          "level": "error",
+          "message": {
+            "text": "'y' is assigned a value but never used."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/dev/sarif/sarif-tutorials/samples/Introduction/simple-example.js",
+                  "index": 1
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 5
+                }
+              }
+            }
+          ],
+          "ruleId": "no-unused-vars1",
+          "ruleIndex": 1
+        }
       ]
     }
   ]
